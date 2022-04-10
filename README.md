@@ -1,4 +1,4 @@
-# SQL-Udacity-Project
+# Parch and Posey Analysis
 
 ## Description
 In this project, you will query the Parch and Posey Database. The Parch and Posey Database holds information about a paper store. For this project, you will be assisting the Parch and Posey team with understanding their web traffic, their customers and employees, and their order information.<br>
