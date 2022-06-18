@@ -5,7 +5,6 @@ In this project, you will query the Parch and Posey Database. The Parch and Pose
 You need to come up with 4 questions that you can answer with SQL. The questions must be complex enough to where the SQL used to answer it requires at least one JOIN and one Aggregation.
 
 ## Presentations
-The presentation
 - Four slides
 - One visualization per slide
 - A 1-2 sentence explanation of each slide
